@@ -1,0 +1,17 @@
+E:\Roden\RodenCore\RodenCore\TestCore\bin\Debug\TestCore.exe.config
+E:\Roden\RodenCore\RodenCore\TestCore\bin\Debug\TestCore.exe
+E:\Roden\RodenCore\RodenCore\TestCore\bin\Debug\TestCore.pdb
+E:\Roden\RodenCore\RodenCore\TestCore\bin\Debug\RodenCore.dll
+E:\Roden\RodenCore\RodenCore\TestCore\bin\Debug\RodenCore.pdb
+E:\Roden\RodenCore\RodenCore\TestCore\obj\Debug\TestCore.csprojResolveAssemblyReference.cache
+E:\Roden\RodenCore\RodenCore\TestCore\obj\Debug\TestCore.csproj.CoreCompileInputs.cache
+E:\Roden\RodenCore\RodenCore\TestCore\obj\Debug\TestCore.exe
+E:\Roden\RodenCore\RodenCore\TestCore\obj\Debug\TestCore.pdb
+E:\Git_Core\RodenCore-master\TestCore\bin\Debug\TestCore.exe.config
+E:\Git_Core\RodenCore-master\TestCore\bin\Debug\TestCore.exe
+E:\Git_Core\RodenCore-master\TestCore\bin\Debug\TestCore.pdb
+E:\Git_Core\RodenCore-master\TestCore\bin\Debug\RodenCore.dll
+E:\Git_Core\RodenCore-master\TestCore\bin\Debug\RodenCore.pdb
+E:\Git_Core\RodenCore-master\TestCore\obj\Debug\TestCore.csprojResolveAssemblyReference.cache
+E:\Git_Core\RodenCore-master\TestCore\obj\Debug\TestCore.exe
+E:\Git_Core\RodenCore-master\TestCore\obj\Debug\TestCore.pdb

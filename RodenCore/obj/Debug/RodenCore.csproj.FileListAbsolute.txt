@@ -1,0 +1,16 @@
+Y:\Downloads\源码\RodenCore\RodenCore\RodenCore\bin\Debug\RodenCore.dll
+Y:\Downloads\源码\RodenCore\RodenCore\RodenCore\bin\Debug\RodenCore.pdb
+Y:\Downloads\源码\RodenCore\RodenCore\RodenCore\obj\Debug\RodenCore.csproj.CoreCompileInputs.cache
+Y:\Downloads\源码\RodenCore\RodenCore\RodenCore\obj\Debug\RodenCore.dll
+Y:\Downloads\源码\RodenCore\RodenCore\RodenCore\obj\Debug\RodenCore.pdb
+E:\Roden\RodenCore\RodenCore\RodenCore\bin\Debug\RodenCore.dll
+E:\Roden\RodenCore\RodenCore\RodenCore\bin\Debug\RodenCore.pdb
+E:\Roden\RodenCore\RodenCore\RodenCore\obj\Debug\RodenCore.csprojResolveAssemblyReference.cache
+E:\Roden\RodenCore\RodenCore\RodenCore\obj\Debug\RodenCore.csproj.CoreCompileInputs.cache
+E:\Roden\RodenCore\RodenCore\RodenCore\obj\Debug\RodenCore.dll
+E:\Roden\RodenCore\RodenCore\RodenCore\obj\Debug\RodenCore.pdb
+E:\Git_Core\RodenCore-master\RodenCore\bin\Debug\RodenCore.dll
+E:\Git_Core\RodenCore-master\RodenCore\bin\Debug\RodenCore.pdb
+E:\Git_Core\RodenCore-master\RodenCore\obj\Debug\RodenCore.csprojResolveAssemblyReference.cache
+E:\Git_Core\RodenCore-master\RodenCore\obj\Debug\RodenCore.dll
+E:\Git_Core\RodenCore-master\RodenCore\obj\Debug\RodenCore.pdb
